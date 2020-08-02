@@ -3,7 +3,7 @@ $backgound : #6D6D6D;
 
 body {
 	color: $color; 
-	background: $backgound;
+	background-color: $backgound;
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 }
 
 h2 {
-	background: $backgound;
+	background-color: $backgound;
 }
